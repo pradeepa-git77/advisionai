@@ -1,0 +1,1 @@
+DISCLOSURE: This dataset contains 150 generated advertisement creatives and synthetic campaign metrics. No metric is verified real-world performance. For demo/testing only. Do not describe it as real campaign evidence.
